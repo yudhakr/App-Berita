@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2005" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/drawable/bg_line.xml" value="0.15" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/drawable/ic_share.xml" value="0.2005" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/drawable/shape_bg.xml" value="0.1195" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/drawable/shape_bg_ss.xml" value="0.2005" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/layout-v26/activity_detail_novel.xml" value="0.35260416666666666" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/layout/activity_about.xml" value="0.29260182876142976" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/layout/activity_detail_novel.xml" value="0.25" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/layout/activity_main.xml" value="0.3207070707070707" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/layout/item_novel.xml" value="0.33" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Dicoding/Android Studio Project/NovelApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2005" />
+        <entry key="..\:/Dicoding/Dicoding-Sub-Pemula/NovelApp/app/src/main/res/layout/activity_about.xml" value="0.18802083333333333" />
+        <entry key="..\:/Dicoding/Dicoding-Sub-Pemula/NovelApp/app/src/main/res/layout/activity_detail_novel.xml" value="0.18802083333333333" />
+        <entry key="..\:/Dicoding/Dicoding-Sub-Pemula/NovelApp/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Dicoding/Dicoding-Sub-Pemula/NovelApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.33" />
+        <entry key="..\:/Dicoding/Dicoding-Sub-Pemula/NovelApp/app/src/main/res/layout/icon.xml" value="0.36666666666666664" />
+        <entry key="..\:/Dicoding/Dicoding-Sub-Pemula/NovelApp/app/src/main/res/layout/item_novel.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.36666666666666664" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

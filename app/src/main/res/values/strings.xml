@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">BeritaApp</string>
+    <string name="title">Title</string>
+    <string name="author">Penyunting</string>
+    <string name="year">Tahun</string>
+    <string name="detail">Isi Berita</string>
+    <string name="sinopsis"></string>
+    <string name="about">About</string>
+    <string name="rahmat_sugiarto">Ayudha Kusuma Rahmadhani</string>
+    <string name="email_about">yudhadeux@gmail.com</string>
+    <string name="n"></string>
+    <string name="detail_novel">Detail Berita</string>
+    <string name="share">Anda bisa memasang iklan dengan menghungi https://github.com/yudhakr</string>
+
+
+
+    <string-array name="title">
+        <item>Melihat Lebih Dekat KTT G20 di Bali</item>
+        <item>Banjir Rendam Tol Bitung</item>
+        <item>Ragam Analisis di Balik Absennya Putin di KTT G20 Bali</item>
+        <item>Penemuan Jenazah Perempuan 29 Tahun di Tugu Selatan, Sudah Kaku dan Membengkak</item>
+        <item>Jokowi dan Megawati Bahas Sosok Capres 2024</item>
+        <item>Solusi Atasi Krisis Dunia Hanya Satu, Setop Invasi Rusia</item>
+        <item>4 Hal yang Harus Diperhatikan Saat Kucing Melahirkan</item>
+        <item>AISI Klaim Pameran IMOS 2022 Raup Transaksi Lebih dari Rp 100 Miliar</item>
+        <item>Jalur Sepeda Sering Diserobot Pengendara Sepeda Motor, Pesepeda Jadi Waswas</item>
+        <item>Biznet Bakal Bangun Jaringan Fiber Optik di Pulau Sumatera pada 2023</item>
+
+    </string-array>
+
+    <string-array name="image">
+        <item>https://akcdn.detik.net.id/community/media/visual/2022/11/15/the-apurva-kempinski-nusa-dua-bali_169.jpeg?w=700</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2018/11/30/0c2804a6-d905-4ae2-98ad-25513ea83895_169.jpeg?w=700</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2022/09/14/presiden-rusia-vladimir-putin_169.jpeg?w=700</item>
+        <item>https://akcdn.detik.net.id/community/media/visual/2015/06/18/c88da392-bd90-458a-8651-263b163d5e48_169.jpg?w=700</item>
+        <item>https://statik.tempo.co/data/2022/10/08/id_1147233/1147233_720.jpg</item>
+        <item>https://statik.tempo.co/data/2022/11/15/id_1157125/1157125_720.jpg</item>
+        <item>https://statik.tempo.co/data/2020/05/29/id_941532/941532_720.jpg</item>
+        <item>https://statik.tempo.co/data/2022/11/04/id_1154376/1154376_720.jpg</item>
+        <item>https://statik.tempo.co/data/2022/11/10/id_1155724/1155724_720.jpg</item>
+        <item>https://statik.tempo.co/data/2022/02/08/id_1086638/1086638_720.jpg</item>
+
+    </string-array>
+
+    <string-array name="author">
+        <item>Selasa,15 Nov</item>
+        <item>Selasa,15 Nov</item>
+        <item>Senin,14 Nov</item>
+        <item>Senin,14 Nov</item>
+        <item>Selasa,15 Nov</item>
+        <item>Selasa,15 Nov</item>
+        <item>Senin,14 Nov</item>
+        <item>Senin,14 Nov</item>
+        <item>Senin,14 Nov</item>
+        <item>Senin,14 Nov</item>
+    </string-array>
+
+    <integer-array name="year">
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+        <item>2022</item>
+    </integer-array>
+
+    <string-array name="detail">
+        <item> Jakarta - Wartawan Istana Kepresidenan yang lain sempat berkunjung ke area The Apurva Kempinski pada Senin (15/11/2022) kemarin. Kedatangan para wartawan Istana untuk meliput rangkaian agenda pertemuan bilateral Presiden Joko Widodo (Jokowi) dengan sejumlah pemimpin G20</item>
+        <item> Blitung -Genangan di Tol Bitung terjadi imbas meluapnya air Sungai Sabi dan Sungai Cisadane ke badan jalan tol. Banjir terpantau terjadi sejak Minggu (15/11) pukul 20.50 WIB. Jika dihitung hingga pagi ini per pukul 06.00 WIB, kurang lebih banjir menggenangi area ini selama 33 jam.</item>
+        <item>Jakarta - Presiden Rusia Vladimir Putin absen menghadiri KTT G20 yang berlangsung di Bali, Indonesia. Kehadiran Putin diwakilkan oleh Menteri Luar Negeri (Menlu) Rusia Sergei Lavrov.Mengapa Putin tidak bisa menghadiri langsung KTT G20 Bali</item>
+        <item>Jakarta - Pria di Indramayu, Jawa Barat inisial T (47) membacok adik iparnya S (45) hingga tewas. Pelaku diduga sakit hati karena korban ikut campur urusan rumah tangga pelaku dan istrinya.</item>
+        <item>Jakarta - Ketua DPP Partai Demokrasi Indonesia Perjuangan (PDIP), Said Abdullah, hakulyakin bahwa Presiden Joko Widodo alias Jokowi bakal senada dengan Ketua </item>
+        <item>Nusa Dua - Presiden Ukraina Volodymyr Zelensky mengatakan, solusi untuk mengatasi krisis pangan, energi, dan ancaman keamanan seperti nuklir adalah menghentikan agresi Rusia ke negaranya."Saya ingin perang Rusia agresif ini berakhir dengan adil dan berdasarkan pada Piagam PBB serta hukum internasional, dan bukan dengan cara apa pun," kata Zelensky yang bergabung secara virtual dalam konferensi tingkat tinggi atau KTT G20 Bali, Selasa, 15 November 2022.</item>
+        <item>Jakarta - Berbeda dengan manusia, masa kehamilan kucing berlangsung selama 60 hari. Jelang melahirkan, biasanya akan menunjukkan tanda-tanda. Apa saja yang perlu disiapkan ketika kucing kesayangan segera melahirkan ?</item>
+        <item>Jakarta - Jalur sepeda di Jakarta masih sering diserobot oleh pengguna sepeda motor dan mobil. Kondisi itu terlihat berdasarkan pantauan Tempo, Sabtu pagi kemarin, 14 November 2022</item>
+        <item>Jakarta -Senior Manager Marketing Consumer Biznet Adrianto Sulistyo mengungkap beberapa proyek terbaru dari perusahaan tahun 2023. Salah satunya adalah pembangunan fiber optik di Pulau Sumatera, dari Bandar Lampung sampai Banda Aceh.</item>
+        <item>Jakarta - Pemain sayap timnas Brasil Raphinha punya misi khusus di Piala Dunia 2022 Qatar. Mengingat negaranya memenangkan turnamen pada edisi 202, ia  mengatakan bahwa Piala Dunia adalah momen yang baik untuk membangkitkan kembali rasa kebersamaan di masyarakat Brasil.Raphinha, yang melakukan debutnya di Brasil pada Oktober 2021, akan tampil di Piala Dunia pertamanya di Qatar. </item>
+    </string-array>
+
+    <string-array name="sinopsis">
+        <item>Nusa Dua - Konferensi Tingkat Tinggi (KTT) G20 digelar hari ini di The Apurva Kempinski, Nusa Dua, Bali. Penjagaan di venue utama pertemuan para pemimpin dunia itu sangat ketat.detikcom bersama wartawan Istana Kepresidenan yang lain sempat berkunjung ke area The Apurva Kempinski pada Senin (15/11/2022) kemarin</item>
+        <item>Genangan di Tol Bitung terjadi imbas meluapnya air Sungai Sabi dan Sungai Cisadane ke badan jalan tol. Banjir terpantau terjadi sejak Minggu (13/11) pukul 20.50 WIB. Jika dihitung hingga pagi ini per pukul 06.00 WIB, kurang lebih banjir menggenangi area ini selama 33 jam."Genangan di SS Bitung Ruas Tol Jakarta-Tangerang terjadi akibat curah hujan yang tinggi pada Minggu 13 November 2022, serta tingginya debit air Sungai Kali Manis, sehingga limpasan air memasuki badan jalan," kata Marketing and Communication Department Head Jasamarga Metropolitan Tollroad.</item>
+        <item>Sejumlah pakar menduga alasan sebenarnya dari ketidakhadiran Putin adalah karena dia tak ingin dipermalukan lagi! Dilansir kantor berita AFP, Senin (14/11/2022), terakhir kali Putin mendapati dirinya terisolasi di KTT G20 adalah pada tahun 2014 di Brisbane, Australia, segera setelah dia mencaplok Krimea. Saat itu, dia dijauhi oleh para pemimpin dunia lainnya sampai-sampai dia pun pergi lebih awal.Delapan tahun kemudian, setelah meluncurkan invasi ke Ukraina pada Februari dan mengancam Barat dengan senjata nuklir, Putin memilih untuk melewatkan KTT G20 di Bali.Menurut para pengamat, Kremlin berusaha untuk melindungi pemimpin Rusia berusia 70 tahun itu dari berbagai kecaman di Indonesia. Namun, ketidakhadiran Putin berisiko semakin mengisolasi negara yang telah dihantam deretan sanksi Barat tersebut.Alexei Malashenko, kepala peneliti di Dialogue of Civilizations Institute, mengatakan bahwa Putin tidak ingin kembali dipermalukan di depan umum, mengingat bahwa pada KTT Brisbane pada tahun 2014, Putin ditempatkan di sisi paling ujung saat sesi foto bersama para pemimpin G20.</item>
+        <item>Dilansir detikJabar, Senin (14/11/2022), Kuasa hukum pelaku Ruslandi menjelaskan bahwa rumah tangga pelaku dengan istrinya R, yang merupakan kakak kandung korban tengah retak. Benih kehancuran bahtera rumah tangganya retak lantaran adanya campur tangan korban."Menurut keterangan terduga pelaku, bahwa ia merasa sakit hati terhadap korban. Karena korban adik dari istrinya sering kali membujuk atau mempengaruhi untuk bercerai dengan suaminya (pelaku)," kata Ruslandi kepada detikJabar, Senin (14/11).Ruslandi mengatakan masalah ekonomi juga diduga menjadi latarbelakang isu perceraian antara pelaku dan istrinya. Sebab, pelaku yang hanya sebagai penjual es lilin dianggap kurang memenuhi kebutuhan keluarganya."Latarbelakang perceraian ini adalah faktor ekonomi ya, karena terduga pelaku ini hanya sebagai penjual es lilin, karena sering kekurangan faktor ekonomi maka ada bujukan kepada istrinya," kata Ruslandi.Pembacokan sadis itu terjadi pada Minggu (15/11) dini hari di kelurahan Paoman, Kecamatan Indramayu, Kabupaten Indramayu. Korban S yang merupakan adik ipar pelaku tewas di tangan kakak iparnya T (47) dengan sebilah golok.</item>
+        <item>Umum, Megawati Soekarnoputri, soal sosok calon presiden maupun calon wakil presiden yang dijagokan pada Pilpres 2024. Menurut dia, Jokowi dan Megawati bakal duduk bersama membahas hal ini.“Kalau Capres PDIP insya Allah Presiden kita akan diajak bicara oleh Ibu Ketua Umum PDIP untuk duduk bersama,” kata Said di Kompleks Parlemen, Jakarta, Selasa, 15 November 2022.Said menjelaskan, kepemimpinan Jokowi sebagai Presiden selama dua periode membuatnya punya berbagai pengalaman. Di sisi lain, kata dia, Megawati juga pernah menjabat sebagai Presiden pada 2001. Oleh sebab itu, Said menyebut Jokowi dan Megawati akan saling sharing sehingga keputusan soal Capres maupun Cawapres bisa disepakati.</item>
+        <item>Seperti telah diperkirakan para analis, isu Ukraina mendominasi KTT G20. Presiden Amerika Serikat Joe Biden sebelumnya juga mengatakan pihaknya dan sekutu akan menyoroti dampak invasi Rusia ke Ukraina di KTT G20, di antara sejumlah isu penting lainnya.Selain Amerika Serikat, Inggris, Kanada, dan Uni Eropa juga mengecam invasi Putin ke Ukraina. Bahkan pemimpin Barat dikabarkan akan memboikot delegasi Rusia.Di tengah desakan Barat untuk mengisolasi Rusia, Presiden Vladimir Putin mengirimkan Menteri Luar Negeri Sergei Lavrov ke KTT G20.  Dalam pidato pembukaannya, Presiden Joko Widodo mengatakan Indonesia telah berupaya semaksimal mungkin untuk menjembatani perbedaan yang sangat dalam dan sangat lebar. Namun, keberhasilan hanya akan dapat tercapai jika semua pihak dapat menyisihkan perbedaan.Karena perbedaan pendapat soal Ukraina, forum KTT G20 diperkirakan sulit mencapai kesepakatan bersama. Kendati demikian, Presiden Jokowi menegaskan bahwa Indonesia sebagai presidensi G20 akan tetap menjaga perdamaian.Fokus Indonesia sebagai presidensi G20 adalah pemulihan ekonomi global pasca-pandemi, dengan prioritas bidang kesehatan, transformasi digital, dan transisi energi. Namun pertemuan kepala negara anggota G20 kali ini dibayangi oleh krisis global di sektor pangan dan energi, yang dipicu oleh invasi Rusia ke Ukraina. Dalam sejumlah pertemuan tingkat menteri, beberapa negara Barat yang dipimpin Amerika Serikat mengecam dengan keras invasi Rusia ke Ukraina serta dampaknya terhadap krisis pangan dan energi.Zelensky, dalam pidatonya di KTT G20 menyampaikan 10 butir solusi itu, mulai dari keluar dari ancaman nuklir, krisis pangan, hingga ketersediaan energi. Menurut Pemimpin Ukraina itu, pemimpin dunia tinggal memutuskan apakah akan memilih jalannya atau Rusia."Kami tidak akan membiarkan Rusia menunggu, membangun kekuatannya, dan kemudian melontarkan lagi serangkaian teror dan kekacauan global</item>
+        <item>Menurut Danu Prayogo, salah satu dokter hewan di klinik Veta Abadi Jember, ada banyak hal yang perlu diperhatikan saat kucing melahirkan. Menurut Danu, kucing yang akan melahirkan sering kali terlihat gelisah, suhu badannya meningkat, dan kerap mencari tempat sunyi dan gelap, serta sering banyak tidur. Menyiapkan Kandang agar kucing yang sedang hamil tetap merasa nyaman, ada beberapa hal yang harus diperhatikan, Diantaranya siapkan kandang yang baik, tempatkan pada suhu yang nyaman, atau tidak terlalu terang. Begitu pula untuk anak kucing yang baru lahir, tempat tinggalnya juga harus dipersiapkan. Saat kucing akan melahirkan, siapkan lap atau handuk untuk membersihkan darah ketika lahiran dan siapkan alas pada kandang seperti underpet atau lainnya yang bersifat menyerap. Biaya persalinan kucing Untuk biaya persalinan kucing di klinik bisanya dibanderol dengan harga kurang lebih Rp. 100 ribu.  Pasca kucing melahirkan, segera bersihkan sisa-sisa kotoran yang ada pada tubuh kucing. Lalu potong tali pusar, kemudian dekatkan dengan induk dan arahkan pada puting susu si induk agar mendapat nutrisi yang baik dari air susu induknya. Kemudian beri penerangan pada kandang untuk menghangatkan bayi kucing</item>
+        <item>Beberapa kendaraan roda dua tampak memilih melaju di jalur sepeda yang ada ruas Jalan Cikini Raya, Jakarta Pusat.Seorang pesepeda Wafiyyun, 16 tahun, yang sedang melintas di jalur sepeda tersebut mengatakan ia biasa bersepeda satu minggu sekali guna untuk meluangkan waktu liburnya.“Kalo hari libur saya suka sepedaaan, biasanya pergi ke sini (Cikini) kalau pagi-pagi, sekalian pergi ke TIM (Taman Ismail Marzuki) sekalian istirahat disana,” katanya.Menurut dia, para pesepada masih kerap was-was bila melintas di jalur sepeda karena sepeda motor masih keraop melintas di jalur sepeda. “Menurut saya, harusnya jalur sepeda di pake buat pesepeda aja, kendaraan lain jangan ikut-ikutan ke jalur itu, supaya yang naik sepeda juga nyaman, dan enggak takut ke senggol kendaraan lain,” ucapnya.“Apalagi kalau jalanannya lagi rame, kadang pesepeda malah ga pake jalur sepeda tapi lewatnya troroar karena gabisa lintas, rame sama yang pake motor,” ucap dia.Sebelumnya, Ketua Umum Bike to Work atau B2W Indonesia Fahmi Saimima, mengatakan perlu ada pendidikan dan penegakan hukum yang tegas untuk membuat masyarakat lebih peduli dan sadar dengan keberadaan jalur khusus sepeda.“Membangun jalur sepeda itu juga perlu diimbangi dengan sosialisasi, dengan edukasi juga dengan sanksi serta regulasi,” kata dia saat dihubungi, Kamis, 10 November 2022.Fahmi pun meminta kepada penegak hukum agar lebih tegas terhadap pengendara lain yang menggunakan jalur sepeda. “Untuk menuju kota yang beradab, ya, kita harus menjunjung tinggi ketertiban dan keberaturan terhadap hukum, kalau masyarakat tidak didorong untuk tertib dan teratur nanti urakan,” kata dia.</item>
+        <item>Biznet memiliki kabel fiber optik dari Jawa dan Bali. Dia mengatakan bahwa Biznet sudah meng-cover internet di Pulau Jawa dari jalur utara hingga selatan, dan Bali yang sudah dipasang kabel backbone yang mengelilingi pulau.Tujuan dari pembangunan kabel di Pulau Sumatera itu, Adrianto menjelaskan, adalah Biznet ingin memeratakan internet cepat di Indonesia. Dia mengatakan saat ini beberapa kota seperti Bandar Lampung, Pelambang, Padang, Jambi, dan Medan memang sudah memiliki akses internet, tapi masih pakai kabel third party, sehingga belum bisa cepat internetnya.“Nanti setelah kita bangun Bandar Lampung hingga Banda Aceh itu kita punya kabel nyambung dari Pulau Jawa ke Sumatera. Kemudian dari Pulau Bangka ke Pulau Sumatera itu yang lagi kita kerjakan di akhir tahun ini sampai akhir tahun depan,” ucap Adrianto.Tahun ini kabel fiber optik Biznet mencapai lebih dari 61 ribu kilometer dengan 1,2 juta Home Pass yang tersebar di lebih dari 160 kota di sepanjang Pulau Jawa, Bali, Bangka, Sumatra, Sulawesi, Kalimantan dan Flores.President Director Biznet Adi Kusma menjelaskan bahwa pandemi Covid-19 memberikan dampak perubahan pada pola aktivitas baru yang dibarengi dengan perkembangan digital. Ini membuat ketersediaan akses layanan Internet paling dibutuhkan oleh seluruh masyarakat. “Untuk itu, Biznet terus menjalankan komitmennya melakukan perluasan jaringan serta menghadirkan layanan Internet yang cepat dan stabil untuk mendukung pertumbuhan serta kemajuan digital,” ujar dia.Secara bertahap Biznet terus melakukan pembangunan jaringan bukan hanya di kota besar saja, namun juga desa/kota kecil sehingga jaringan Internet bisa tersedia di wilayah tersebut. “Proses perluasan jaringan Biznet juga bertujuan untuk mengurangi kesenjangan digital sehingga terjadi pemerataan akses Internet di Indonesia,” kata dia.</item>
+        <item>Dikutip dari Reuters.“Suasana di tim kami seperti tim nasional pemenang, ambisius dan ingin memenangkan gelar. Ada getaran yang baik di antara seluruh tim. Saya tidak melihatnya sebagai tekanan, tim seperti Brasil selalu menjadi penantang untuk Piala Dunia atau gelar lain yang mereka perebutkan," kata pemain Barcelona tersebut. Raphinha bergabung dengan Barcelona pada bursa transfer bulan Juli dari klub Liga Inggris, Leeds United. Ia berhasrat untuk mengikuti jejak pemain hebat Brasil seperti Romario, Ronaldo, Ronaldinho, dan Neymar di Nou Camp. Sadar akan rekor para pemain Brasil di Barcelona, ia pun juga sadar betul harapan masyarakat Brasil agar tim nasionalnya menjadi juara Piala Dunia. "Permintaan dari para penggemar itu normal karena kami adalah tim berkualitas tinggi, dengan nama-nama besar," kata Raphinha. </item>
+    </string-array>
+</resources>
